@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319577813630",
+    "firebase_url": "https://cadastroprofessores-75539.firebaseio.com",
+    "project_id": "cadastroprofessores-75539",
+    "storage_bucket": "cadastroprofessores-75539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319577813630:android:4f591b83f8058202",
+        "android_client_info": {
+          "package_name": "com.example.aluno.cadastroprofessores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319577813630-bd05e8fjd6lsjrtbshgk695v2a21pflh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cadastroprofessores",
+            "certificate_hash": "42cfb6edb546caddadd521ede3cc6aab06a109fa"
+          }
+        },
+        {
+          "client_id": "319577813630-87psjjm8u34j95egn8p3qb2e7sd6608a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3e6H6-jk-CvoYBTlidG7tAh_SAwrISd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319577813630-87psjjm8u34j95egn8p3qb2e7sd6608a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
